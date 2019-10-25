@@ -55,7 +55,7 @@ a {
     margin-right: 15px;
 }
 
-#content-block {
+.content-block {
     clear: both;
     overflow: auto;
     margin: 0 auto;
