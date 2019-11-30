@@ -15,7 +15,7 @@ h1,h2{
     font-family: Georgia, 'Times New Roman', Times, serif
 }
 
-#heading1 {
+.heading {
     width: 960px;
     margin: 0 auto;
     text-align: center;
@@ -57,7 +57,7 @@ a {
     overflow: auto;
     margin: 0 auto;
     border-top: 1px solid #eee;
-    background-image: url("../images/full-bloom.png");
+    background-image: url("../images/trees.png");
     width: 100%;
     /* min-height: 100vh; */
     flex: 1 0 auto;
